@@ -1,2 +1,2 @@
-# ansi_c_hashmap
-Hash map written in ANSI C
+# C hashmap
+Hash map written in C
